@@ -1,0 +1,58 @@
+.page-content {
+  top: 50px;
+}
+
+.theme-teal {
+background:transparent url('../img/bg1.jpeg') no-repeat center center /cover;
+}
+
+.swiper-custom {
+  position:relative;
+  height:100%;
+}
+
+.swiper-container {
+
+  padding-top: 50px;
+}
+
+.swiper-slide {
+  color: white;
+  background: transparent;
+}
+
+.swiper-slide span {
+  text-align:center;
+  display:block;
+  margin: 20px;
+  font-size:21px;
+  right: 0px;
+}
+
+.swiper-button-prev {
+  top: 250px;
+}
+
+.swiper-button-next {
+  top: 250px;
+}
+
+.key {
+  position: absolute;
+  bottom: 90px;
+  width: 100%;
+}
+
+.button {
+  background: url('../icon/ic_sound.svg') no-repeat;
+  display: inline-block;
+  padding: 25px 25px;
+
+}
+
+.text {
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+  font-size: 30px;
+}
